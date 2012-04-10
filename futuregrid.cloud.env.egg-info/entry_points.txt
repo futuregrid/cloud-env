@@ -1,0 +1,3 @@
+[console_scripts]
+fg-cloud-env = futuregrid.cloud.env.FGEnvShell:main
+

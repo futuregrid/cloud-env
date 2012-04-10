@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+./futuregrid/__init__.py
+./futuregrid/cloud/__init__.py
+./futuregrid/cloud/env/FGEnvShell.py
+./futuregrid/cloud/env/__init__.py
+futuregrid.cloud.env.egg-info/PKG-INFO
+futuregrid.cloud.env.egg-info/SOURCES.txt
+futuregrid.cloud.env.egg-info/dependency_links.txt
+futuregrid.cloud.env.egg-info/entry_points.txt
+futuregrid.cloud.env.egg-info/requires.txt
+futuregrid.cloud.env.egg-info/top_level.txt

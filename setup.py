@@ -39,7 +39,7 @@ doclines = __doc__.split("\n")
 
 
 setup(
-    name='futuregrid.virtual.cluster',
+    name='futuregrid.cloud.env',
     version=version,
     description = doclines[0],
     classifiers = filter(None, classifiers.split("\n")),
@@ -63,7 +63,7 @@ setup(
     
     entry_points={
         'console_scripts': [
-                'fg-cloud-env = futuregrid.cloud.env.FGEnv:commandline_parser',
+                'fg-cloud-env = futuregrid.cloud.env.FGEnvShell:main',
              ]},
 
     install_requires = [
